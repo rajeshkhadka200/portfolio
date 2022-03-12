@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  width: 75%;
+  margin: 40px auto;
+  font-size: 16px;
+
+  justify-content: space-between;
+}
+.links a {
+  margin-right: 25px;
+  transition: 0.3s all;
+}
+.links a:hover {
+  /* border-bottom: 2px solid gray; */
+}
+.navContact {
+  border: 2px solid var(--button);
+  padding: 6px 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  color: var(--button);
+  cursor: pointer;
+}
