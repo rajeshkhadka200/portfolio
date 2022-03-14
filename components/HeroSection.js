@@ -7,16 +7,15 @@ const HeroSection = () => {
             <div className={style.wrapper}>
                 <div className={style.heroLeftSide}>
                     <div className={style.header}>
-                        Hi, I'm <span>Rajesh!</span> 👋 
+                        Hi, I'm <span>Rajesh! </span> 👋
+
                     </div>
                     <p>
-                        A passionate developer who design and develops web app and mobile
+                        A passionate fullstack developer who design and develops web app and mobile
                         app.
                     </p>
                     <div className={style.butonGroup}>
-                        <button>
-                            Get in touch
-                        </button>
+                        <button>Get in touch</button>
                         <button className={style.btnSecond}>View portfolio</button>
                     </div>
                 </div>

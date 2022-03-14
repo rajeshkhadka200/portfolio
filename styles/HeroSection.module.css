@@ -12,6 +12,7 @@
   font-size: 45px;
   font-weight: 600;
 }
+
 .heroLeftSide p {
   padding: 9px 0;
   max-width: 450px;
@@ -20,13 +21,11 @@
   font-weight: 600;
   line-height: 27px;
 }
-.butonGroup {
-  /* border: 1px solid red; */
-}
+
 .butonGroup button {
   outline: 0;
   /* border: 1px solid rgba(255, 255, 255, 0.171); */
-  border: 1px solid #34393f;
+  border: 1px solid rgba(255, 255, 255, 0.253);
   background: var(--button);
   color: var(--text);
   padding: 14px 25px;
@@ -39,6 +38,7 @@
 .butonGroup .btnSecond {
   background: transparent;
 }
+
 .iconBox {
   background: #fff;
   height: 20px;
