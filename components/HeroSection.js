@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 import style from "../styles/HeroSection.module.css";
 const HeroSection = () => {
@@ -15,7 +14,7 @@ const HeroSection = () => {
                         app.
                     </p>
                     <div className={style.butonGroup}>
-                        <button>Get in touch</button>
+                        <button>Get haha in touch</button>
                         <button className={style.btnSecond}>View portfolio</button>
                     </div>
                 </div>
