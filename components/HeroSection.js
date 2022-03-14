@@ -14,7 +14,7 @@ const HeroSection = () => {
                         app.
                     </p>
                     <div className={style.butonGroup}>
-                        <button>Get haha in touch</button>
+                        <button>Get in touch</button>
                         <button className={style.btnSecond}>View portfolio</button>
                     </div>
                 </div>
