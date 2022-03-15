@@ -16,8 +16,8 @@ const Nav = () => {
         <div className={style.logo}> <Link href={"/"}>Rajesh</Link> </div>
         <div className={style.links}>
           <Link href={"/"}>home</Link>
-          <Link href={"/contact"}>passion</Link>
           <Link href={"/"}>works</Link>
+          <a target="_" href="https://blog.rajeshkhadka.info.np/">blog</a>
           <Link href={"/contact"}>
             <span className={style.navContact}>Hire me</span>
           </Link>
