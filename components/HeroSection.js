@@ -19,7 +19,7 @@ const HeroSection = () => {
                     </div>
                 </div>
                 <div className={style.heroRightSide}>
-                    {/* <img src="/static/logo.png" alt="" srcset="" /> */}
+                    <img src="/static/logo.png" alt="logo" />
                 </div>
             </div>
         </>

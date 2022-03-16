@@ -7,6 +7,18 @@
 .heroLeftSide {
   flex-basis: 50%;
 }
+.heroRightSide {
+  flex-basis: 50%;
+  /* border: 1px solid red; */
+}
+.heroRightSide img {
+  display: flex;
+  float: right;
+  justify-content: flex-end!important;
+  align-items: center;
+  height: 350px;
+  width: 350px;
+}
 
 .heroLeftSide .header {
   font-size: 45px;
